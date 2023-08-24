@@ -8,8 +8,23 @@
 
 <br/>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+<h1 align="center">🔥 Languages:</h1>
 
+<p align="left"> 
+      <img src="https://img.icons8.com/color/452/c-programming.png" alt="express" width="44" height="44" target="_blank"/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2KysS-Fj-RgPNEg0XK_6GJINJS-mf8f6zSxcZID9U7xsVTZPkPVtAqfY5E3kd0nTJnb0&usqp=CAU" alt="express" width="51" height="51" />
+      <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+      <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+      <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+      <img src="https://img.icons8.com/color/48/000000/python.png"/>
+      <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/>
+</p>
+
+ 
+  <h1 align="center">⭐️ Libraries and Frameworks:</h1> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/>
+
+  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
