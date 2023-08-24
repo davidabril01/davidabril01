@@ -15,7 +15,6 @@
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
   <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-  <img src="https://img.icons8.com/color/48/000000/python.png"/>
   <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/>
   <h1 align="left">⭐️ Libraries and Frameworks:</h1> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="express" width="44" height="44"/>
