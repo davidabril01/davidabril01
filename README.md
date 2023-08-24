@@ -22,7 +22,7 @@
 
  
   <h1 align="center">⭐️ Libraries and Frameworks:</h1> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="express" width="44" height="44"/>
 
   
 Here are some ideas to get you started:
