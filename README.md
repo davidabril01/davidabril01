@@ -8,23 +8,19 @@
 
 <br/>
 
-<h1 align="left">🔥 Languages:</h1>
-<div width="440">
-  <div>
-    <p align="left"> 
-        <img src="https://img.icons8.com/color/452/c-programming.png" alt="express" width="44" height="44" target="_blank"/>
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2KysS-Fj-RgPNEg0XK_6GJINJS-mf8f6zSxcZID9U7xsVTZPkPVtAqfY5E3kd0nTJnb0&usqp=CAU" alt="express" width="51" height="51" />
-        <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-        <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-        <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-        <img src="https://img.icons8.com/color/48/000000/python.png"/>
-        <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/>
-      <h1 align="left">⭐️ Libraries and Frameworks:</h1> 
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="express" width="44" height="44"/>
-    </p>
-  </div>
-    <img align="right" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
-</div>
+<p align="left" width="440"> 
+  <h1 align="left">🔥 Languages:</h1>
+  <img src="https://img.icons8.com/color/452/c-programming.png" alt="express" width="44" height="44" target="_blank"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2KysS-Fj-RgPNEg0XK_6GJINJS-mf8f6zSxcZID9U7xsVTZPkPVtAqfY5E3kd0nTJnb0&usqp=CAU" alt="express" width="51" height="51" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png"/>
+  <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/>
+  <h1 align="left">⭐️ Libraries and Frameworks:</h1> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="express" width="44" height="44"/>
+</p>
+<img align="right" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
 
 Here are some ideas to get you started:
