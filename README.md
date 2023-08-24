@@ -21,7 +21,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="express" width="44" height="44"/>
 </p>
 <br/>
-  <img align="center" height="310" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
+  <img align="left" height="250" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
 
 
