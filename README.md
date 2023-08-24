@@ -8,8 +8,6 @@
 
 <br/>
 
-<table><tr>
-<td valign="top" width="50%">
   <p align="left"> 
   <h1 align="left">🔥 Languages:</h1>
   <img src="https://img.icons8.com/color/452/c-programming.png" alt="express" width="44" height="44" target="_blank"/>
@@ -22,11 +20,9 @@
   <h1 align="left">⭐️ Libraries and Frameworks:</h1> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="express" width="44" height="44"/>
 </p>
-</td>
-<td valign="top" width="50%">
+<br/>
   <img align="center" height="310" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
-</td>
-</tr></table>  
+
 
 
 
