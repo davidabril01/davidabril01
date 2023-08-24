@@ -8,8 +8,8 @@
 
 <br/>
 
+<h1 align="left">🔥 Languages:</h1>
   <p align="left"> 
-  <h1 align="left">🔥 Languages:</h1>
   <img src="https://img.icons8.com/color/452/c-programming.png" alt="express" width="44" height="44" target="_blank"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2KysS-Fj-RgPNEg0XK_6GJINJS-mf8f6zSxcZID9U7xsVTZPkPVtAqfY5E3kd0nTJnb0&usqp=CAU" alt="express" width="51" height="51" />
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
