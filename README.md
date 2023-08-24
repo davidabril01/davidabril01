@@ -9,7 +9,7 @@
 <br/>
 
 <h1 align="left">🔥 Languages:</h1>
-<div display="flex !important">
+<div width="44%">
   <div>
     <p align="left"> 
         <img src="https://img.icons8.com/color/452/c-programming.png" alt="express" width="44" height="44" target="_blank"/>
