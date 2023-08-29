@@ -21,6 +21,7 @@
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="express" width="44" height="44"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="express" width="44" height="44"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LESS_Logo.svg" alt="express" width="44" height="44"/>
 </p>
 <br/>
   <img align="left" height="250" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
