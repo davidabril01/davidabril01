@@ -18,7 +18,7 @@
   <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/>
   <h1 align="left">⭐️ Libraries and Frameworks:</h1> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="express" width="44" height="44"/>
-  <img src="https://www.flaticon.com/free-icons/sass" title="sass icons"/>
+  <a href="https://www.flaticon.com/free-icons/sass" title="sass icons">Sass icons created by Freepik - Flaticon</a>
 </p>
 <br/>
   <img align="left" height="250" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
