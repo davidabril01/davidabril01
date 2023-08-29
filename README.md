@@ -21,7 +21,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg"/>
 </p>
 <br/>
-  <img align="left" height="250" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
+  <img align="left" height="250" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" alt="express" width="44" height="44"/>
 
 
 
