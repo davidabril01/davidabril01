@@ -20,11 +20,11 @@
 </p>
 <h1 align="left">⭐️ Libraries and Frameworks:</h1> 
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="express" width="44" height="44"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="express" width="44" height="44"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LESS_Logo.svg" alt="express" width="44" height="44"/>
-  <img src="https://img.icons8.com/?size=50&id=r2OarXWQc7B6&format=png&color=000000"/>
-  <img src="https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000"/>
+  React <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="express" width="44" height="44"/>
+  NextJS <img src="https://img.icons8.com/?size=50&id=r2OarXWQc7B6&format=png&color=000000"/>
+  NestJS <img src="https://img.icons8.com/?size=50&id=9ESZMOeUioJS&format=png&color=000000"/>
+  Tailwind <img src="https://img.icons8.com/?size=50&id=CIAZz2CYc6Kc&format=png&color=000000"/>
+  Material UI <img src="https://img.icons8.com/?size=50&id=gFw7X5Tbl3ss&format=png&color=000000"/>
 </p>
 <br/>
   <img align="left" height="250" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
