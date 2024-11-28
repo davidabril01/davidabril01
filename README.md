@@ -16,13 +16,15 @@
   <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
   <img src="https://img.icons8.com/fluent/48/000000/mysql-logo.png"/>
-  <img src="https://img.icons8.com/?size=50&id=r2OarXWQc7B6&format=png&color=000000"/>
+  
 </p>
 <h1 align="left">⭐️ Libraries and Frameworks:</h1> 
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="express" width="44" height="44"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="express" width="44" height="44"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LESS_Logo.svg" alt="express" width="44" height="44"/>
+  <img src="https://img.icons8.com/?size=50&id=r2OarXWQc7B6&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000"/>
 </p>
 <br/>
   <img align="left" height="250" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
