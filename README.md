@@ -16,7 +16,7 @@
   <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
   <img src="https://img.icons8.com/fluent/48/000000/mysql-logo.png"/>
-  <img src="https://img.icons8.com/?size=48&id=yUdJlcKanVbh&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=50&id=r2OarXWQc7B6&format=png&color=000000"/>
 </p>
 <h1 align="left">⭐️ Libraries and Frameworks:</h1> 
 <p>
